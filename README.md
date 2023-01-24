@@ -1,5 +1,5 @@
 # rehab_leds
-The rehab_leds_control package is a ROS package that allows you to control the state of 3 LEDs (red, green, off) through ROS parameters.
+The rehab_leds package is a ROS package that allows you to control the state of 3 LEDs (red, green, off) through ROS parameters.
 
 ## Installation
 ```cd catkin_ws/src/```\
