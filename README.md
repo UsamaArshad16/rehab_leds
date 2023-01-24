@@ -12,7 +12,7 @@ The rehab_leds package is a ROS package that allows you to control the state of 
 ## Run the demo
 ### 1. ros master
 ```roscore```
-### 2. rosservial python
+### 2. rosserial python
 open another terminal\
 ```rosrun rosserial_python serial_node.py tcp 11411```
 ### 3. led control node
