@@ -21,5 +21,3 @@ open another terminal\
 ### 4. set the state of leds
 open another terminal\
 ```rosparam set led_1_set red```
-
-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
